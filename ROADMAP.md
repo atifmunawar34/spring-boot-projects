@@ -10,7 +10,7 @@ One project pushed to GitHub every day. Each project is a standalone folder with
 - [x] Day 01 — REST API Hello World + CRUD (in-memory) → `taskflow-api`
 - [x] Day 02 — Todo API with Spring Data JPA + H2 → `expense-tracker-api`
 - [x] Day 03 — Bean Validation + Global Exception Handling (@ControllerAdvice) → `customer-api`
-- [ ] Day 04 — Pagination, Sorting, Filtering, Search
+- [x] Day 04 — Pagination, Sorting, Filtering, Search → `product-catalog-api`
 - [ ] Day 05 — DTOs + MapStruct mapping
 - [ ] Day 06 — File Upload/Download API
 - [ ] Day 07 — Scheduled jobs (@Scheduled) + Email sender

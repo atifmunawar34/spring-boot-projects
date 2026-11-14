@@ -1,0 +1,8 @@
+package io.github.atifmunawar34.catalog.product;
+
+public class ProductNotFoundException extends RuntimeException {
+
+	public ProductNotFoundException(Long id) {
+		super("Product not found: " + id);
+	}
+}

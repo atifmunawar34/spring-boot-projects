@@ -9,6 +9,7 @@ A growing collection of production-grade Spring Boot projects — REST APIs, sec
 | [taskflow-api](taskflow-api/) | Task management REST API with validation, status/priority filtering, and structured error responses | Spring Boot 4, Web MVC, Validation |
 | [expense-tracker-api](expense-tracker-api/) | Expense tracking API with JPA persistence, category & date-range filters, H2 console | Spring Boot 4, Data JPA, H2, Validation |
 | [customer-api](customer-api/) | Customer registration API with custom validators (@StrongPassword, @PhoneNumber), nested validation, structured errors | Spring Boot 4, Web MVC, Validation |
+| [product-catalog-api](product-catalog-api/) | Product search API with pagination, whitelisted sorting, and dynamic JPA Specification filters | Spring Boot 4, Data JPA, H2, Validation |
 
 Full 60-day plan: [ROADMAP.md](ROADMAP.md)
 
