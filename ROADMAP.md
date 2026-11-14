@@ -9,7 +9,7 @@ One project pushed to GitHub every day. Each project is a standalone folder with
 ## Part 1 — Core REST & Data (Days 1–10)
 - [x] Day 01 — REST API Hello World + CRUD (in-memory) → `taskflow-api`
 - [x] Day 02 — Todo API with Spring Data JPA + H2 → `expense-tracker-api`
-- [ ] Day 03 — Bean Validation + Global Exception Handling (@ControllerAdvice)
+- [x] Day 03 — Bean Validation + Global Exception Handling (@ControllerAdvice) → `customer-api`
 - [ ] Day 04 — Pagination, Sorting, Filtering, Search
 - [ ] Day 05 — DTOs + MapStruct mapping
 - [ ] Day 06 — File Upload/Download API
